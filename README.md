@@ -5,7 +5,8 @@
 ## Esay interface Esay to Use 
 
 ![alt text](https://cdn.pbrd.co/images/I0283Fs.png)
-![alt text](https://cdn.pbrd.co/images/I028tS4.png)
 ![alt text](https://cdn.pbrd.co/images/I02939X.png)
+![alt text](https://cdn.pbrd.co/images/I028tS4.png)
+
 
 An assistance app for blind users
